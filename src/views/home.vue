@@ -1,6 +1,8 @@
 <script setup lang="ts">
     import {  RouterView } from 'vue-router'
     import TheFooter from '../components/TheFooter.vue'
+    const isDark = usePreferredDark()
+    console.log('isDark', isDark)
     console.log('home')
 </script>
 
