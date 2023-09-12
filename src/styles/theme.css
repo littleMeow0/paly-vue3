@@ -27,6 +27,7 @@
     --color-text-2: var(--zt-c-text-dark-2);
 }
 
+
 /* 借助css优先级进行区别命中,为body添加theme-mode属性 */
 body {
     color: var(--color-text);
