@@ -1,6 +1,6 @@
 <script setup lang="ts">
-    import { RouterLink } from 'vue-router'
-    import { setLanguages } from '../modules/i18n/index'
+    // import { RouterLink } from 'vue-router'
+    // import { setLanguages } from '../modules/i18n/index'
 
 </script> 
 
